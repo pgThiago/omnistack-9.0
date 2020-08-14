@@ -67,7 +67,7 @@ In order to open the file in `.sketch` format in any operating system you can us
 
   ## :memo: License
 
-  This project is under MIT license. Check the file LICENSE for more details.
+This project is under MIT license. Check the file [LICENSE](LICENSE.md) for more details.
 
 ---
 
